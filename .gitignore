@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 
 #HTML output
-.html
+*.html
