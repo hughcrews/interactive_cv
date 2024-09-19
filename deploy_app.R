@@ -1,6 +1,7 @@
 library(rsconnect)
 
-code_dir <- "C:/Users/hughb/Documents/business discovery ideas/coding projects/r projects/interactive cv/code_dir"
+# Location of shiny application code
+code_dir <- Sys.getenv("SHINY_CV_LOC")
 
 
 rsconnect::setAccountInfo(name='hbcrews',

@@ -21,8 +21,8 @@ Email: \href{mailto:hugh.crews@gmail.com}{hugh.crews@gmail.com}
 # Education
 \begin{itemize}
 \item \textbf{May 2011}: Master of Business Administration, University of North Carolina Wilmington  
-\item \textbf{August 2008}: Ph.D., Statistics, North Carolina State University  
-  Advisors: Dr. Leonard Stefanski and Dr. Dennis Boos  
+\item \textbf{August 2008}: Ph.D., Statistics, North Carolina State University\\  
+  Advisors: Dr. Leonard Stefanski and Dr. Dennis Boos  \\
   Dissertation: \href{https://repository.lib.ncsu.edu/items/a3527216-396d-45e5-a0c7-c928477953f4}{\textit{Fast FSR Methods for Second-Order Linear Regression Models}}
 \item \textbf{May 2005}: Master of Statistics, North Carolina State University  
 \item \textbf{May 2003}: B.S., Statistics, Minor in Economics, North Carolina State University  
