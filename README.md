@@ -13,6 +13,7 @@ OPENAI_API_KEY = OpenAI api key for project that assistant is connected <br>
 ASST_ID = The assistant id of the OpenAI assistant you created for managing requests <br>
 SHINYAPPS_TOKEN = shinyapps.io token <br>
 SHINYAPPS_SECRET = shinyapps.io secret corresponding to token <br>
+SHINY_CV_LOC = path to code_dir folder <br>
 
 ## Deploying app
 After setting up environment file and making sure all package dependencies are installed, you can simply run deploy_app.R to deploy the app onto your shinyapps.io account.
