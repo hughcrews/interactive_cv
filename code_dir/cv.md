@@ -16,7 +16,7 @@ Email: [hugh.crews@gmail.com](mailto:hugh.crews@gmail.com)<br>
 
 ## Experience
 
-- **Owner/Data Scientist, Eligis Analytics, Inc., Wilmington, NC** (April 2015 - Present)  
+- **Data Scientist, Eligis Analytics, Inc., Wilmington, NC** (April 2015 - Present)  
   - Consult with organizations to define key questions and decisions to improve their business.
   - Develop solutions for data collection, cleaning, and preparation.
   - Create applications and code snippets for recurring reports with data summaries and insights.
